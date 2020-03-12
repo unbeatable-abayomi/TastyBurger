@@ -284,6 +284,9 @@ ol li a{
 .request_info{
     margin-bottom: 1.2rem;
 }
+.each_card{
+    margin: 2rem;
+}
 @media only screen and (max-width: 768px){
     .desktop-nav{
         display: none;
