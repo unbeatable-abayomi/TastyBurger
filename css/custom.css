@@ -213,8 +213,8 @@ input{
 .footer{
     background-color: black;
     color: gray;
-    padding-top: 7rem;
-    padding-bottom: 5rem;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
 }
 #footer_li{
     display: flex;
