@@ -195,10 +195,7 @@ p,h1,h2,h3,h4{
    padding-top: 5rem;
    line-height: 50px; 
 }
-.footer_stuffs{
-    /* display: flex;
-    flex-direction: column; */
-}
+
 
 .form_items{
     display: flex;
@@ -254,9 +251,7 @@ input{
 .Collection_Organic{
    min-height: 500px;
 }
-.ourwork_excellence{
-    /* min-height: 500px; */
-}
+
 .excellent_services{
     
     margin-top: 2rem;
@@ -265,7 +260,6 @@ input{
 }
 .our_latest_blog{
     min-height: 750px;
-    /* margin-bottom: 5rem; */
 }
 
 ol li a{
@@ -295,6 +289,13 @@ ol li a{
 textarea{
     width:100%;
 }
+.free_easy_retruns{
+    margin-left: -7rem;
+}
+.support_always_text{
+
+    margin-left: -4rem; 
+}
 @media only screen and (max-width: 768px){
     .desktop-nav{
         display: none;
@@ -313,4 +314,11 @@ textarea{
  textarea{
      width:100%;
  }
+ .free_easy_retruns{
+    margin-left: 0rem;
+}
+.support_always_text{
+
+    margin-left: 0rem; 
+}
 }
