@@ -285,7 +285,12 @@ ol li a{
     margin-bottom: 1.2rem;
 }
 .each_card{
-    margin: 2rem;
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+}
+.blogs_cards{
+    padding-left:2.5rem ;
+    padding-right: 2.5rem;
 }
 @media only screen and (max-width: 768px){
     .desktop-nav{
