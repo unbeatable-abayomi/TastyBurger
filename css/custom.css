@@ -10,6 +10,10 @@
 body{
     overflow-x: hidden;
 }
+/* .tryin{
+    width: 3rem;
+    padding-left: 3rem;
+} */
 ul{
  display: flex;
  justify-content: flex-end;
@@ -69,6 +73,7 @@ ul li a.fa.fa-pinterest-p{
 
 .navbar .nav-item a.nav-link{
    color: #000;
+   width: 6rem;
 }
 .mobile-nav{
     display: none;
