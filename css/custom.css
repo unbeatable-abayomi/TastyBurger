@@ -246,7 +246,9 @@ input{
    min-height: 550px;
     padding-top:2rem ;
     padding-bottom: 2rem;
-    margin: 2rem;
+    /* margin: 2rem; */
+    /* padding-left: 2rem; */
+
 }
 .Collection_Organic{
    min-height: 500px;
@@ -260,6 +262,7 @@ input{
 }
 .our_latest_blog{
     min-height: 750px;
+    margin-top: 5rem;
 }
 
 ol li a{
@@ -320,5 +323,22 @@ textarea{
 .support_always_text{
 
     margin-left: 0rem; 
+}
+
+
+.our_special{
+   min-height: 550px;
+   margin-left: -2rem;
+}
+.blogs_cards{
+    margin-right: 26rem;
+    /* padding-left:2.5rem ; */
+    /* padding-right: 2.5rem; */
+}
+.our_latest_blog{
+    margin-left: -2.2rem; 
+}
+.our_latest_post_text{
+    margin-top: 9rem;
 }
 }
